@@ -1,0 +1,1 @@
+// Board-spezifische Definitionen
