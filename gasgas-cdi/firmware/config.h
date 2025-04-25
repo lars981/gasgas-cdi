@@ -1,1 +1,0 @@
-// Konfiguration für das Steuergerät
